@@ -8,6 +8,6 @@ Datos obtenidos desde OpenStreetMap.
 
 La base de datos contiene 221 comisarías con nombre, comuna, clase (si es tenencia, comisaría, subcomisaría, retén, o prefectura), y columnas con la ubicación geográfica de las comisarías.
 
-![Mapa de comisarías de la Región Metropolitana](mapa_comisarias_carabineros.jpg)
+![Mapa de comisarías de la Región Metropolitana](mapa_comisarias_carabineros_rm.jpg)
 
 Respecto a la información geográfica de las comisarías, el archivo `comisarias.rds` contiene la columna `geometry`, que puede ser punto, polígono o multipolígono, mientras que el archivo `comisarias.csv` solo contiene la latitud y longitud.
