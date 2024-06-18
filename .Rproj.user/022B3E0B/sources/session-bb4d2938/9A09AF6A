@@ -1,26 +1,26 @@
 {
-    "id": "5B679838",
-    "path": "~/Documents/Apps Shiny/campamentos_chile/mapa_campamentos.R",
-    "project_path": null,
-    "type": "r_source",
+    "id": "9A09AF6A",
+    "path": "~/Documents/Apps Shiny/comisarias_chile/readme.md",
+    "project_path": "readme.md",
+    "type": "markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1718683709998.0,
+    "created": 1718687384809.0,
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "45,2",
-        "scrollLine": "30"
+        "cursorPosition": "5,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1718292927,
+    "lastKnownWriteTime": 1718687874,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1718292927,
+    "last_content_update": 1718687874305,
     "read_only": false,
     "read_only_alternatives": []
 }

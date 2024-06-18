@@ -3,7 +3,7 @@
     "path": "~/Documents/Apps Shiny/comisarias_chile/obtener_comisarias.R",
     "project_path": "obtener_comisarias.R",
     "type": "r_source",
-    "hash": "182601061",
+    "hash": "3559568296",
     "contents": "",
     "dirty": false,
     "created": 1718682985622.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "71,15",
-        "scrollLine": "58"
+        "cursorPosition": "78,0",
+        "scrollLine": "56"
     },
     "folds": "",
-    "lastKnownWriteTime": 1718685385,
+    "lastKnownWriteTime": 1718687649,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1718685385903,
+    "last_content_update": 1718687649122,
     "read_only": false,
     "read_only_alternatives": []
 }
